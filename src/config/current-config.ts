@@ -251,7 +251,7 @@ export const BLOG_CONFIG: BlogConfig = {
         {
           name: 'Praveen Yadav',
           role: 'Founder &  Chief Analyst',
-          imageUrl: '/images/authors/praveen_yadav.jpeg',
+          imageUrl: '/images/authors/praveen_yadav.png',
           bio: 'Praveen Yadav is the mind behind Nivesh Marg, turning raw market data into bite-sized, practical tips. Through a mix of in-depth technical analysis and field-tested tech experiments, he helps investors make smarter moves.'
         },
         {
