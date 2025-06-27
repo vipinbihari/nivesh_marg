@@ -435,7 +435,7 @@ export const BLOG_CONFIG: BlogConfig = {
   authors: {
     'Praveen Yadav': {
       bio: 'Praveen Yadav is the voice behind Nivesh Marg, turning market charts into clear, practical tips. He blends hands-on technical analysis with real world technological experiments to help everyday investors feel confident.',
-      avatar: '/images/authors/praveen_yadav.jpeg',
+      avatar: '/images/authors/praveen-yadav.png',
       twitter: '@yadav_0073',
       linkedin: 'praveen-yadav-0073'
     },
