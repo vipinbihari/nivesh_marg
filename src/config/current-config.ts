@@ -28,7 +28,7 @@ export const BLOG_CONFIG: BlogConfig = {
   site: {
     name: siteName,
     tagline: 'Wealth Guide',
-    description: 'Explore Indian and global stock markets through expert research and practical lessons .',
+    description: 'Explore Indian and global stock markets through expert research and practical lessons.',
     url: siteUrl,
     author: 'Praveen Yadav', 
     email: `praveenrealchamp@gmail.com`,
