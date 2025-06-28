@@ -89,7 +89,7 @@ export const BLOG_CONFIG: BlogConfig = {
     breadcrumbSeparator: '›',
     heroConfig: {
       title: `Welcome to ${siteName}`,
-      subtitle: 'Your trusted path to wealth and market insights',
+      subtitle: 'Your trusted path to financial growth and market insights',
       ctaButton1: { text: 'Discover Articles', url: '/posts/page/1' },
       ctaButton2: { text: 'About Us', url: '/about' },
       // Hero background image with comprehensive configuration
