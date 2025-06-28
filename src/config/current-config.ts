@@ -27,7 +27,7 @@ export const BLOG_CONFIG: BlogConfig = {
   // Site Identity
   site: {
     name: siteName,
-    tagline: 'Wealth Guide',
+    tagline: 'Investor Academy',
     description: 'Explore Indian and global stock markets through expert research and practical lessons.',
     url: siteUrl,
     author: 'Praveen Yadav', 
