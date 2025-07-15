@@ -169,7 +169,7 @@ export const BLOG_CONFIG: BlogConfig = {
     },
     {
       platform: 'youtube',
-      url: `https://youtube.com/channel/UCo-Y-9AJr_AK7xn_CZd0vAQ`,
+      // url: `https://youtube.com/channel/UCo-Y-9AJr_AK7xn_CZd0vAQ`,
       label: 'Subscribe on YouTube',
     },
     // Add other platforms like Instagram, GitHub, etc. as needed
