@@ -106,7 +106,7 @@ export const BLOG_CONFIG: BlogConfig = {
   navigation: {
     header: [
       { label: 'Home', href: '/' },
-      { label: 'Market Updates', href: '/categories/market-Updates/page/1' },
+      { label: 'Market Updates', href: '/categories/market-news/page/1' },
       { label: 'Technical Analysis', href: '/categories/technical-analysis/page/1' },
       { label: 'Fundamental Analysis', href: '/categories/fundamental-analysis/page/1' },
     //  { label: 'About', href: '/about' },
@@ -120,7 +120,7 @@ export const BLOG_CONFIG: BlogConfig = {
         links: [
           { label: 'Technical Analysis', href: '/categories/technical-analysis/page/1' },
           { label: 'Fundamental Analysis', href: '/categories/fundamental-analysis/page/1' },
-          { label: 'Market Updates', href: '/categories/market-Updates/page/1' }
+          { label: 'Market Updates', href: '/categories/market-news/page/1' }
         ],
       },
       {
